@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which of the following is a mammal?",
+    option1: "Crocodile",
+    option2: "Hen",
+    option3: "Parrot",
+    option4: "Owl",
+    ans: 1,
+  },
+  {
+    question: "Which of the following lives in water?",
+    option1: "Crocodile",
+    option2: "Hen",
+    option3: "Parrot",
+    option4: "Owl",
+    ans: 1,
+  },
+  {
+    question: "what is the capital city of pakistan?",
+    option1: "Kabul",
+    option2: "Islamabad",
+    option3: "Kathmandu",
+    option4: "Tokyo",
+    ans: 2,
+  },
+  {
+    question: "Which of these is a fruit",
+    option1: "Cabage",
+    option2: "Onion",
+    option3: "Tomato",
+    option4: "Ginger",
+    ans: 3,
+  },
+  {
+    question: "How would you rate this out of 10",
+    option1: "8",
+    option2: "9",
+    option3: "10",
+    option4: "0",
+    ans: 3,
+  },
+];
